@@ -1,0 +1,50 @@
+{
+    "disorders": [
+      {
+        "name": "Anxiety Disorders",
+        "description": "Disorders in which anxiety is a prominent feature.",
+        "treatments": [
+          "Psychotherapy",
+          "Medication",
+          "Relaxation Techniques"
+        ]
+      },
+      {
+        "name": "Mood Disorders",
+        "description": "Disorders characterized by a disturbance in mood.",
+        "treatments": [
+          "Psychotherapy",
+          "Medication",
+          "Electroconvulsive Therapy"
+        ]
+      },
+      {
+        "name": "Eating Disorders",
+        "description": "Disorders in which an individual has a distorted body image and an abnormal relationship with food.",
+        "treatments": [
+          "Psychotherapy",
+          "Medication",
+          "Nutritional Counseling"
+        ]
+      },
+      {
+        "name": "Personality Disorders",
+        "description": "Disorders in which an individual has a distorted self-image and maladaptive patterns of behavior.",
+        "treatments": [
+          "Psychotherapy",
+          "Medication",
+          "Dialectical Behavior Therapy"
+        ]
+      },
+      {
+        "name": "Substance Use Disorders",
+        "description": "Disorders in which an individual has a problematic pattern of substance use.",
+        "treatments": [
+          "Psychotherapy",
+          "Medication",
+          "Support Groups"
+        ]
+      }
+    ]
+  }
+  
